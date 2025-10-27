@@ -1,18 +1,10 @@
 [
   {
-    "id": 1761571418610,
-    "title": "produit2",
-    "desc": "lksjfsd",
-    "price": "1000",
+    "id": 1761571533707,
+    "title": "produit3",
+    "desc": "iudsfhsd",
+    "price": "50000",
     "category": "Produit",
-    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761571416599-MontreRolex.jpeg"
-  },
-  {
-    "id": 1761571420556,
-    "title": "produit2",
-    "desc": "oijeiofdzoa",
-    "price": "20999",
-    "category": "Produits",
-    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761571418610-Sac.jpg"
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761571531860-images.jpeg"
   }
 ]
