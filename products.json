@@ -1,1 +1,10 @@
-WwogIHsKICAgICJpZCI6IDE3NjEzMjQyOTk1MzUsCiAgICAidGl0bGUiOiAiTW9udHJlIFJvbGV4IiwKICAgICJkZXNjIjogIkxhIHF1YWxpdOkgZmFpdCBsYSBkaWZm6XJlbmNlIiwKICAgICJwcmljZSI6ICI0MDAwMDAiLAogICAgImNhdGVnb3J5IjogIk1vbnRyZSIsCiAgICAiaW1nIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ib3ViODExMjQxMjEvQWRtaW5TaG9wL21haW4vaW1ncy8xNzYxMzI0Mjk5NTM1LU1vbnRyZVJvbGV4LmpwZWciCiAgfSwKICB7CiAgICAiaWQiOiAxNzYxMzI0Mjk5NTM2LAogICAgInRpdGxlIjogIlNhYyBhdSBkb3MgIiwKICAgICJkZXNjIjogIkxhIHF1YWxpdOkgZmFpdCBsYSBkaWZm6XJlbmNlIiwKICAgICJwcmljZSI6ICIzMDAwMCIsCiAgICAiY2F0ZWdvcnkiOiAiU2FjIGF1IGRvcyIsCiAgICAiaW1nIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ib3ViODExMjQxMjEvQWRtaW5TaG9wL21haW4vaW1ncy8xNzYxMzI0Mjk5NTM2LVNhYy5qcGciCiAgfQpd
+[
+  {
+    "id": 1761571344370,
+    "title": "produit1",
+    "desc": "lksjfsd",
+    "price": "1000",
+    "category": "Produit",
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761571342337-MontreRolex.jpeg"
+  }
+]
