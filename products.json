@@ -15,4 +15,36 @@
     "category": "Sac au dos",
     "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572138383-Sac.jpg"
   }
+  {
+    "id": 1761572138383,
+    "title": "Lunette Multicadre",
+    "desc": "Cette lunette est la bonne qualité",
+    "price": "30000",
+    "category": "Lunette",
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572136376-MontreRolex.jpeg"
+  },
+  {
+    "id": 1761572140327,
+    "title": "Chaussure en cuir",
+    "desc": "La qualité fait la différence",
+    "price": "9500",
+    "category": "Chaussure",
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572138383-Sac.jpg"
+  }
+  {
+    "id": 1761572138383,
+    "title": "Valise MultiPièce",
+    "desc": "Cette montre est la bonne qualité",
+    "price": "75000",
+    "category": "Valise",
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572136376-MontreRolex.jpeg"
+  },
+  {
+    "id": 1761572140327,
+    "title": "Sac au dos",
+    "desc": "La qualité fait la différence",
+    "price": "4500",
+    "category": "Sac au dos",
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572138383-Sac.jpg"
+  }
 ]
