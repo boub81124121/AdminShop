@@ -16,35 +16,35 @@
     "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572138383-Sac.jpg"
   }
   {
-    "id": 1761572138383,
+    "id": 1761572138353,
     "title": "Lunette Multicadre",
     "desc": "Cette lunette est la bonne qualité",
     "price": "30000",
     "category": "Lunette",
-    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572136376-MontreRolex.jpeg"
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/WhatsApp Image 2025-12-03 at 15.57.50.jpeg"
   },
   {
-    "id": 1761572140327,
+    "id": 1761572140317,
     "title": "Chaussure en cuir",
     "desc": "La qualité fait la différence",
     "price": "9500",
     "category": "Chaussure",
-    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572138383-Sac.jpg"
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/WhatsApp Image 2025-12-03 at 15.45.54.jpeg"
   }
   {
-    "id": 1761572138383,
+    "id": 1761572138343,
     "title": "Valise MultiPièce",
     "desc": "Cette montre est la bonne qualité",
     "price": "75000",
     "category": "Valise",
-    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572136376-MontreRolex.jpeg"
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/WhatsApp Image 2025-12-03 at 15.47.26.jpeg"
   },
   {
-    "id": 1761572140327,
-    "title": "Sac au dos",
+    "id": 1761572140307,
+    "title": "Caméra de surverllance",
     "desc": "La qualité fait la différence",
     "price": "4500",
-    "category": "Sac au dos",
-    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/1761572138383-Sac.jpg"
+    "category": "Camera",
+    "img": "https://raw.githubusercontent.com/boub81124121/AdminShop/main/imgs/camera1.jpeg"
   }
 ]
